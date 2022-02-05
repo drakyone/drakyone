@@ -14,11 +14,9 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 252 Bytes Used in GitHub's Storage 
  > 
@@ -31,10 +29,10 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-🌆 Daytime    10 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-🌃 Evening    15 commits     ███████░░░░░░░░░░░░░░░░░░   30.61% 
-🌙 Night      13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53%
+🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+🌆 Daytime    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+🌃 Evening    15 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
+🌙 Night      13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.0%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -44,9 +42,9 @@ Monday       0 commits      ░░░░░░░░░░░░░░░░░�
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53% 
-Saturday     31 commits     ███████████████░░░░░░░░░░   63.27% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
+Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.0% 
+Saturday     32 commits     ████████████████░░░░░░░░░   64.0% 
+Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
@@ -92,7 +90,7 @@ TypeScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/drakyone/drakyone/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 13:34:46 UTC
+ Last Updated on 05/02/2022 13:46:01 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drakyone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishkhan-papazian-8bba9a1a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papazianishkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/drakyone)  
