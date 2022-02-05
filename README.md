@@ -12,8 +12,6 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 8 Contributions in the Year 2022
@@ -29,22 +27,10 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
-🌆 Daytime    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
-🌃 Evening    15 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-🌙 Night      13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-Saturday     32 commits     ████████████████░░░░░░░░░   64.0% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   21.57% 
+🌆 Daytime    12 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+🌃 Evening    15 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
+🌙 Night      13 commits     ██████░░░░░░░░░░░░░░░░░░░   25.49%
 
 ```
 
@@ -54,43 +40,10 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Europe/Moscow
 
-💬 Programming Languages: 
-TypeScript               8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   35.23% 
-JSON                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-YAML                     3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-JavaScript               3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-XML                      2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
-
-🔥 Editors: 
-WebStorm                 24 hrs 53 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Portal                   12 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.16% 
-Cordova.Portal           7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.45% 
-docker-mern              5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-customer-ui              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-via-api                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-💻 Operating System: 
-Windows                  24 hrs 53 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in SCSS** 
-
-```text
-SCSS                     1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-TypeScript               1 repo              ████████████░░░░░░░░░░░░░   50.0%
-
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/drakyone/drakyone/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/02/2022 13:46:01 UTC
+ Last Updated on 05/02/2022 14:12:34 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drakyone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishkhan-papazian-8bba9a1a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papazianishkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/drakyone)  
