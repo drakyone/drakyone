@@ -12,13 +12,13 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-🌆 Daytime    13 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌃 Evening    15 commits     ███████░░░░░░░░░░░░░░░░░░   28.85% 
-🌙 Night      13 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    9 commits      █████████████████████████   100.0% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -31,7 +31,7 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 ```
 
 
- Last Updated on 20/06/2022 18:45:20 UTC
+ Last Updated on 21/06/2022 18:44:36 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drakyone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishkhan-papazian-8bba9a1a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papazianishkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/drakyone)  
