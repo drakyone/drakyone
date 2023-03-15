@@ -16,7 +16,7 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                1 commits           █████████████████████████   100.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -29,7 +29,7 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 ```
 
 
- Last Updated on 11/03/2023 18:34:43 UTC
+ Last Updated on 15/03/2023 18:36:22 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drakyone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishkhan-papazian-8bba9a1a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papazianishkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/drakyone)  
