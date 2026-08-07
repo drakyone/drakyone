@@ -10,8 +10,32 @@ Skills: HTML / CSS / REACT / REACT NATIVE / REDUX / ANGULAR / NGRX STORE / IONIC
 - 📫 How to reach me: rain0093@gmail.com 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2019%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 00:20:44 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌆 Daytime                19 commits          ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌃 Evening                20 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Night                  15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 07/08/2026 19:25:54 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drakyone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishkhan-papazian-8bba9a1a3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/papazianishkhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/drakyone)  
